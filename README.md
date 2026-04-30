@@ -34,3 +34,4 @@ This project predicts house prices using machine learning techniques. It analyze
 - Tune model for better accuracy
 ![Graph](image.png)
 
+![Graph](grph.png)
