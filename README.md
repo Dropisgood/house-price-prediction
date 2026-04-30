@@ -32,3 +32,4 @@ This project predicts house prices using machine learning techniques. It analyze
 - Use advanced models (Random Forest, XGBoost)
 - Improve feature engineering
 - Tune model for better accuracy
+![Graph](image.png)
